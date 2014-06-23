@@ -1,12 +1,11 @@
-undirectedWithEdges
+directedWithEdges
 testProg
 Number
-connected
+stronglyConnected
+transpose
 Cycle
-MSTKruskal
 DFS
-weightedWithEdges
-weighted
-undirected
+unweighted
+directed
 withEdges
 base
