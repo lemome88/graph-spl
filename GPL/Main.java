@@ -20,13 +20,9 @@ class  Main {
         }
 		g.run(g.getVertices().next());
         g.display();
+        
+        //new lines
 
-    }
-
-	
-    
-    public void newMethod(){
-    	//more lines
     }
 
 
